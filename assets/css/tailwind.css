@@ -150,6 +150,13 @@ nav ul li a{
   text-align:center;
   margin:auto 0;
 }
+.works-list {
+  width:80%;
+  margin:auto 0;
+}
+.works-list img {
+  width:50%;
+}
 .info {
   font-size:3em;
   font-weight:200;
