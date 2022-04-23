@@ -25,7 +25,10 @@ a {
   color: inherit;
   text-decoration: inherit;
 }
-
+a:hover {
+  text-decoration:underline;
+  opacity:0.8;
+}
 *{
   list-style: none;
   margin: 0;
