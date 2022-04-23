@@ -1456,11 +1456,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 /* new */
 nav .logo {
-  width:240px;
-  height:240px;
   position:fixed;
   top:0;
   left:0;
+  padding:20px;
+}
+nav .logo img{
+  width:240px;
+  height:240px;
 }
 nav ul{
   width:240px;
