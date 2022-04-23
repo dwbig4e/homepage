@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bitcoin History
-permalink: bitcoin
+permalink: works
 ---
 
 some art works will be shown here.
