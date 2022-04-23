@@ -150,10 +150,12 @@ nav ul li a{
   text-align:center;
   margin:auto 0;
 }
-.prose p {
+.info {
   font-size:3em;
   font-weight:200;
   line-height:1.5em;
+  width:80%;
+  margin:auto 0;
 }
 footer {
   text-align:center;
