@@ -160,7 +160,7 @@ nav .logo img{
 nav ul{
   width:240px;
   position:fixed;
-  top:0;
+  left:0;
   bottom:0;
 }
 nav ul li a{
