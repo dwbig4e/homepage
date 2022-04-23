@@ -18,8 +18,6 @@ author-image: 279.png  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: home
-  permallink: home
 - text: About
   permalink: about
 - text: Works
