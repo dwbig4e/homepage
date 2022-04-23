@@ -108,7 +108,7 @@ video {
 
 /* about */
 .about img {
-  width:50%;
+  width:35%;
   height:auto;
 }
 
@@ -154,7 +154,7 @@ nav ul li a{
   margin:auto 0;
 }
 .works-list {
-  width:80%;
+  width:75%;
   margin:0 auto;
 }
 .works-list img {
@@ -164,7 +164,7 @@ nav ul li a{
   font-size:3em;
   font-weight:200;
   line-height:1.5em;
-  width:80%;
+  width:75%;
   margin:0 auto;
   padding:48px 0;
 }
