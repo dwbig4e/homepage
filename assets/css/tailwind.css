@@ -1452,3 +1452,25 @@ Ensure the default browser behavior of the `hidden` attribute.
     padding-bottom: 0.25rem;
   }
 }
+
+
+/* new */
+nav .logo {
+  width:240px;
+  height:240px;
+  position:fixed;
+  top:0;
+  left:0;
+}
+nav ul{
+  width:240px;
+  position:fixed;
+  top:0;
+  bottom:0;
+}
+nav ul li a{
+  clear:both;
+  display:block;
+  line-height:2em;
+  font-size:1.5em;
+}
