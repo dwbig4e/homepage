@@ -1477,3 +1477,8 @@ nav ul li a{
   line-height:2em;
   font-size:1.5em;
 }
+.prose p {
+  font-size:3em;
+  font-weight:200;
+  line-height:1.5em;
+}
