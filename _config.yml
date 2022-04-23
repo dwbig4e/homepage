@@ -15,7 +15,7 @@ author-bio: nothing
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
-show-nav-menu: false
+show-nav-menu: true
 
 nav-menu:
 - text: About
