@@ -110,7 +110,7 @@ video {
 }
 
 /* new */
-
+.about {text-align:center;}
 .about h1, .page h1 {position:absolute;top:-1000px;left:-1000px;font-size:0.1}
 .home-logo{
   width:500px;
@@ -153,7 +153,6 @@ nav ul li a{
 .works-list {
   width:80%;
   margin:0 auto;
-  padding:48px 0;
 }
 .works-list img {
   width:50%;
@@ -164,7 +163,9 @@ nav ul li a{
   line-height:1.5em;
   width:80%;
   margin:0 auto;
+  padding:48px 0;
 }
 footer {
   text-align:center;
+  padding:24px 0;
 }
