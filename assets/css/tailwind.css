@@ -125,7 +125,7 @@ video {
 
 /* new */
 
-.about h1, .page h1 {position:abosoute;top:-1000px;left:-1000px;font-size:0.1}
+.about h1, .page h1 {position:absolute;top:-1000px;left:-1000px;font-size:0.1}
 .home-logo{
  width:50%;
         height: 500px;        
