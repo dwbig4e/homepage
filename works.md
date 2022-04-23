@@ -4,4 +4,4 @@ title: Bitcoin History
 permalink: works
 ---
 
-some art works will be shown here.
+<a href="http://dwbig4e.com/works/freedom-of-speech">freedom-of-speech</a>
