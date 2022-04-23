@@ -126,14 +126,15 @@ nav .logo {
   position:fixed;
   top:0;
   left:0;
+  width:10%;
   padding:20px;
 }
 nav .logo img{
-  width:10%;
+  width:100%;
   height:auto;
 }
 nav ul{
-  width:240px;
+  width:10%;
   position:fixed;
   left:0;
   bottom:0;
