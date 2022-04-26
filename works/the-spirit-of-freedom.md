@@ -3,11 +3,12 @@ layout: page
 title: The Spirit of Freedom.
 ---
 
-
+<div class="works-show">
 <p><img src="The-Spirit-of-Freedom-01.png"></p>
 <p><img src="The-Spirit-of-Freedom-02.png"></p>
 <p><img src="The-Spirit-of-Freedom-03.png"></p>
 <p><img src="The-Spirit-of-Freedom-04.png"></p>
+</div>
 <div class="info">
   <p>The Spirit of Freedom.</p>
   <p>
