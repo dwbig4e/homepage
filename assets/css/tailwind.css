@@ -131,6 +131,7 @@ nav .logo {
   left:0;
   width:10%;
   padding:20px;
+  z-index:100;
 }
 nav .logo img{
   width:100%;
@@ -142,6 +143,7 @@ nav ul{
   left:0;
   bottom:0;
   padding:20px;
+  z-index:101;
 }
 nav ul li a{
   clear:both;
@@ -164,6 +166,11 @@ float:left;
 width:49.5%;}
 .works-list img {
   width:100%;
+}
+.works-show p {
+border-bottom:1px solid #fff;}
+.works-show p img {
+display:block;
 }
 .info {
   font-size:3em;
