@@ -156,9 +156,14 @@ nav ul li a{
 .works-list {
   width:75%;
   margin:0 auto;
+  overflow:hidden;
+  clear:both;
 }
+.works-list li{
+float:left;
+width:49.5%;}
 .works-list img {
-  width:50%;
+  width:100%;
 }
 .info {
   font-size:3em;
