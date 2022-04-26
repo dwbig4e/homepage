@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin History
+title: dwbig4e works
 permalink: works
 ---
 <ul class="works-list">
