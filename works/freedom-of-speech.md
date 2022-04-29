@@ -8,6 +8,7 @@ title: Freedom of Speech
 <p><img src="freedom-of-speech-02.png"></p>
 <p><img src="freedom-of-speech-03.png"></p>
 <p><img src="freedom-of-speech-04.png"></p>
+<p><img src="freedom-of-speech-05.png"></p>
 </div>
   <div class="info">
   <p>Freedom of Speech.</p>
