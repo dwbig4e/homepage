@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dwbig4e works
+title: works
 permalink: works
 ---
 <ul class="works-list">
