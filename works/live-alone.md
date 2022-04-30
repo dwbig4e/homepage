@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freedom of Speech
+title: Live Alone.
 ---
 
 <div class="works-show">
