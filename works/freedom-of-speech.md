@@ -6,7 +6,7 @@ title: Freedom of Speech
 <div class="works-show">
 <p><img src="freedom-of-speech-01.png"></p>
 <p><img src="freedom-of-speech-02.png"></p>
-<!-- <p><img src="freedom-of-speech-03.png"></p> -->
+<p><img src="freedom-of-speech-03.png"></p>
 <p><img src="freedom-of-speech-04.png"></p>
 <p><img src="freedom-of-speech-05.png"></p>
 </div>
